@@ -31,5 +31,5 @@ File format is .json with all entries as a dictionary and includes special chara
 
 
 # DISCLAIMERS!
-**All test data is fetched from https://www.slumpa.net and is only intended for use in a test environment
-The generated password is created with a static, non-secure method using digits and letters only, and is not recommended for personal use!
+**All test data is fetched from https://www.slumpa.net and is only intended for use in a test environment**
+**The generated password is created with a static, non-secure method using digits and letters only, and is not recommended for personal use!**
