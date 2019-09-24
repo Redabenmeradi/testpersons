@@ -33,3 +33,9 @@ File format is .json with all entries as a dictionary and includes special chara
 # DISCLAIMERS!
 **All test data is fetched from https://www.slumpa.net and is only intended for use in a test environment**
 **The generated password is created with a static, non-secure method using digits and letters only, and is not recommended for personal use!**
+
+
+# IMPORTANT! 
+Thanks to money hoarding capitalist douchebags, running the compiled .exe file  Windows later releases will show a warning that "Windows defender protected you". This is due to all .exe files must be signed, and that costs money I'm not gonna pay... 
+
+To get around this, click the "More info", then you can select "Run anyway". 
